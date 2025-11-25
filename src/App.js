@@ -18,6 +18,7 @@ function App() {
           Hello World!!! I am using React for CPS530 Lab 10 from Carlos!!
         </a>
       </header>
+          Hi Again!!
     </div>
   );
 }
